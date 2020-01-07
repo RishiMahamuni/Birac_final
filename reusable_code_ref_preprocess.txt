@@ -1,0 +1,4 @@
+- reading multiple csv into dictionary
+- concatinating multiple dataframes from dictionary into single dataframe
+- sheet laoding excel time reducer function
+- 
